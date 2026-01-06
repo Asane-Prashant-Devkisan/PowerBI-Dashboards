@@ -1,0 +1,23 @@
+This project is an HR Analytics dashboard developed using Power BI to analyze workforce data and support HR decision-making. The dashboard provides insights into employee demographics, attrition, performance, and organizational trends through interactive visualizations.
+
+🔹 Key Insights
+Employee headcount and workforce distribution
+Attrition analysis by department, age, gender, and job role
+Hiring and exit trends over time
+Employee performance and experience analysis
+Identification of high-risk attrition segments
+
+🔹 Features
+Interactive filters and slicers for deep analysis
+Clean and well-structured data model
+DAX measures for KPIs like attrition rate, average tenure, and headcount
+User-friendly and business-focused dashboard design
+
+🔹 Tools & Technologies
+Power BI Desktop
+Power Query (Data Cleaning & Transformation)
+DAX (Measures & Calculated Columns)
+Data Modeling & Visualization
+
+🎯 Objective
+The objective of this project is to demonstrate HR analytics skills using Power BI and show how data can be used to improve employee retention, workforce planning, and HR strategy.
