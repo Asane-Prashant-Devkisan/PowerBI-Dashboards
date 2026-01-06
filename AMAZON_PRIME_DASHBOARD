@@ -1,0 +1,23 @@
+This project features an interactive Power BI dashboard built to analyze Amazon Prime Movies and TV Shows data. The dashboard provides insights into content distribution, genres, ratings, release trends, and regional availability to support data-driven analysis of the streaming platform.
+
+🔹 Key Insights
+Total movies and TV shows available on Amazon Prime
+Content distribution by type (Movie / TV Show)
+Genre-wise and rating-wise analysis
+Release year trends and growth over time
+Country-wise content availability
+
+🔹 Features
+Interactive slicers for year, genre, country, and type
+Well-structured data model and relationships
+DAX measures for KPIs and dynamic visuals
+Clean, user-friendly dashboard design
+
+🔹 Tools & Technologies
+Power BI Desktop
+Power Query (Data Cleaning & Transformation)
+DAX (Measures & Calculated Columns)
+Data Visualization Best Practices
+
+🎯 Objective
+The objective of this project is to demonstrate data analysis and visualization skills using Power BI by transforming raw streaming data into meaningful insights useful for business and content strategy analysis.
